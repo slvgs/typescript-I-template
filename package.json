@@ -22,5 +22,8 @@
   "homepage": "https://github.com/labenuexercicios/typescript-I-template#readme",
   "devDependencies": {
     "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@types/node": "^18.11.18"
   }
 }
